@@ -1,0 +1,1 @@
+print("Om namah Shivai")
